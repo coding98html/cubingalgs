@@ -1,0 +1,11 @@
+/* PLL Algorithms */
+
+.pll-algs_imgs {
+    height: 75px;
+    width: 73px;
+}
+
+li:before {
+    content: "-";
+    padding-right: 5px;
+  }
